@@ -1,6 +1,6 @@
 # Polynomial-Calculator
 
-The program is a polynomial calculator that takes in two polynomials and finds the value of X, derivative and degree of x. It also multiplies each polynomail together.
+The program takes in two polynomials and finds the results, derivative, and degree of x. It also multiplies each polynomial together.
 
 <img src="https://github.com/ShayanAraghi/Polynomial-Calculator/blob/master/Polynomial.png" width="500">
 
